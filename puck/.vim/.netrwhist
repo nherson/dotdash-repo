@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/nherson/Code/nachos/nachos/proj1/nachos'
+let g:netrw_dirhist_2='/Users/nherson/Documents/MCB61'
+let g:netrw_dirhist_3='/Users/nherson/Code/nachos/.git'
+let g:netrw_dirhist_4='/Users/nherson/tmp/subm/group32/nachos/proj2/nachos'
+let g:netrw_dirhist_5='/Users/nherson/Code/kvstore/kvstore/test/kvstore/test-inputs'
+let g:netrw_dirhist_6='/Users/nherson/.rbenv/versions/1.9.3-p484/lib/ruby/gems/1.9.1/gems/churn-0.0.34/lib/churn'
+let g:netrw_dirhist_7='/Users/nherson/Code/dotdash/lib/dotdash'
+let g:netrw_dirhist_8='/Users/nherson/Code/kvstore/kvstore/src/kvstore'
+let g:netrw_dirhist_9='/Users/nherson/Code/dotdash/lib/dotdash'
